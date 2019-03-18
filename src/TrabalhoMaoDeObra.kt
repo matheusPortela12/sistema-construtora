@@ -1,0 +1,1 @@
+class TrabalhoMaoDeObra(var MaoDeObra: MaoDeObra, var horas: Int)
